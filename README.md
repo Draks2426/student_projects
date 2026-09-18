@@ -10,7 +10,7 @@ Presenting the top 3 lugsorious and full of design and swagg wear
 
 ## Linki do stron
 
-- [Balenci](balenciaga.com)
-- [Maison](maisonmargiela.com)
-- [Chrome](chromehearts.com)
+- [Balenci](https://www.balenciaga.com)
+- [Maison](https://www.maisonmargiela.com)
+- [Chrome](https://www.chromehearts.com)
 
