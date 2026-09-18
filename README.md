@@ -1,4 +1,4 @@
-#Fasion
+# Fasion
 
 Presenting the top 3 lugsorious and full of design and swagg wear
 
@@ -8,7 +8,7 @@ Presenting the top 3 lugsorious and full of design and swagg wear
 |Maison Margiela|2|
 |Chrom Hearts|1|
 
-##Linki do stron
+## Linki do stron
 
 - [Balenci](balenciaga.com)
 - [Maison](maisonmargiela.com)
